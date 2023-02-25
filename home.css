@@ -1,0 +1,52 @@
+body
+{
+    
+	
+	align-items:left;
+	justify-content:left;
+	min-height:100vh;
+	background: url("https://img.freepik.com/free-photo/floral-arrangement-with-fresh-red-roses-pink-surface-copy-space_169016-12274.jpg?w=360");
+	box-shadow:0px 5px 10px 0px rgba(7,220,220);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+/*div{
+    align-items: left;
+    justify-content: left;
+    min-height: 150vh;
+}*/
+h1{
+    margin-bottom: 200px;
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+    font-weight: 900px;
+    
+    
+}
+#camera{
+	color:black;
+	font-size: 40px;
+    margin-top: 0px;
+    
+	
+}
+div
+{
+margin-top: 70px;
+color: black;
+margin-right: 900px;
+display: flex;
+font-size: xx-large;
+font-weight: 600;
+
+}
+div a{
+    margin-left: 40px;
+top: 10px;
+color: black;
+
+}
+ul li{
+    list-style: none
+}

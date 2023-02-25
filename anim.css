@@ -1,0 +1,47 @@
+body{
+	min-height:100vh;
+	background: url("https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/129325364/original/afaddcb9d7dfaaf5bff7ef04101935814665ac16/design-an-attractive-background-for-your-website.png");
+	box-shadow:0px 5px 10px 0px rgba(7,220,220);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+
+
+		div{
+			margin-bottom: 200px;
+			text-align: center;
+			color: white;
+			font-size: xx-large;
+			font-weight: 1000px;
+			text-decoration: underline;
+			text-decoration-color: palevioletred;
+			
+			
+		}
+		
+		h1{
+			margin-bottom: 200px;
+			text-align: left;
+			color: white;
+			font-size: xx-large;
+			font-weight: 1000px;
+			text-decoration: underline;
+			text-decoration-color: aqua;
+			
+			
+		}
+
+		h3{
+			
+			text-align: center;
+			color: white;
+			font-size: larger;
+			font-weight: 100px;
+			text-decoration: underline;
+			text-decoration-color: orange;
+            margin-bottom: 900px;			
+			
+		}
+
+		
